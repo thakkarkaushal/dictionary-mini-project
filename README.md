@@ -8,5 +8,5 @@ Dictionary project using python mini project
 * Used sqlite3 database
 * Python mini project
 
-##How to run
+## How to run
 Run dictionary.py file
